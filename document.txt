@@ -1,0 +1,6 @@
+d/dx(c)=0
+d/dx(a*x^n)=a*n*x^(n-1)
+d/dx(f(x)+g(x))=d/dx(f(x))+d/dx(g(x))
+d/dx(f(x)-g(x))=d/dx(f(x))-d/dx(g(x))
+d/dx(f(x)*g(x))=d/dx(f(x))*g(x)+d/dx(g(x))*f(x)
+d/dx(f(x)/g(x))=(d/dx(f(x))*g(x)-d/dx(g(x))*f(x))/(g(x))^2
